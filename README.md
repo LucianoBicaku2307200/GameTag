@@ -1,3 +1,3 @@
 # React , Tailwind , Redux project
 
-DEMO: [Game Tag](https://luciano-porfolio.web.app/)
+DEMO: [Game Tag](https://game-tag.web.app/)
