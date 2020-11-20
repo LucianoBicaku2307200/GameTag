@@ -1,3 +1,3 @@
 # React , Tailwind , Redux project
 
-DEMO: [Game Tag](https://www.google.com)
+DEMO: [Game Tag](https://game-tag.web.app/)
